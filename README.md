@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @gkdas2
-- 👀 I’m interested in Multidisciplinary Design optimization, Aeroelasticity, Computational Mechanics, Topology optimization
-- 🌱 I’m currently learning Petsc and MPI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I am Ghanendra (Manish), a PhD student at the Georgia Institute of Technology's DICELab. I am interested in developing differentiable computational models for a variety of tightly coupled systems and optimization methods (MDO) to augment engineering design of next generation aircrafts. So far, I have explored MDO architectures (my masters thesis) as well as aerostructural topology optimization for highly flexible aircraft wings.
 
-<!---
-gkdas2/gkdas2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Recenlty, I've been working on non-intuitive structural design of the vehicle airframe for crashworthiness consideration during initial design phase. By implementing topology optimization approach, the idea is to locally control the structural properties such that enhanced energy-attenuating capability is embedded into the chassis structure itself. 
+
+Watch this space for updates.
