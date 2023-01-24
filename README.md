@@ -3,3 +3,5 @@ I am Ghanendra (Manish), a PhD student at the Georgia Institute of Technology's 
 Recenlty, I've been working on non-intuitive structural design of the vehicle airframe for crashworthiness consideration during initial design phase. By implementing topology optimization approach, the idea is to locally control the structural properties such that enhanced energy-attenuating capability is embedded into the chassis structure itself. I've embarked on a long journey to develop an AD-assisted FE framework for dynamic crash simulation of VTOLs with Crashworthiness parameters as cost functions since there doesn't seem to be anything available.
 
 Watch this space for updates.
+
+I am learning how to code. Tee Hee!
